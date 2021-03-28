@@ -1,23 +1,126 @@
-import logo from './logo.svg';
 import './App.css';
+import Grid from "@material-ui/core/Grid"
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className = "inner">
+      <Grid container justify="center"  >
+            <Grid item >
+              {/* this part should be long enough */}
+              <div style={{width: "600px", textAlign:"justify"}}>
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.git
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.  
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.
+                The API documentation of the Button React component. Learn more about the props and the CSS customization points.              
+                </div>
+            </Grid>
+            
+        </Grid>
+        </div>
     </div>
   );
 }
