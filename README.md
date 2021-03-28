@@ -1,5 +1,5 @@
 # the project is not built
-## run the projece 
+## run the project
 ```
 npm install 
 npm start
